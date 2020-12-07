@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmujtabanizamani&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&hide=contribs">
   <br>
-  <hr>
-  <br>
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtabanizamani&theme=cobalt">
   <br>
-  <hr>
-  <br>
-  <a align="center" href="https://github.com/ahmedmujtabanizamani/simplechatbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt"></a>
+  <hr />
+  <a href="https://github.com/ahmedmujtabanizamani/simplechatbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt"></a>
 </p>
