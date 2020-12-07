@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <hr>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtabanizamani&theme=cobalt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtabanizamani&theme=cobalt">
   <br>
   <hr>
   <br>
-  <a href="https://github.com/ahmedmujtabanizamani/simplechatbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt"></a>
+  <a align="center" href="https://github.com/ahmedmujtabanizamani/simplechatbox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt"></a>
 </p>
