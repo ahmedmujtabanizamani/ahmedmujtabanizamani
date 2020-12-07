@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedmujtabanizamani&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&hide=contribs">
-</p>\
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtabanizamani&theme=cobalt)\
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmujtabanizamani&theme=cobalt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedmujtabanizamani&repo=simplechatbox&theme=cobalt)](https://github.com/ahmedmujtabanizamani/simplechatbox)
 
 
